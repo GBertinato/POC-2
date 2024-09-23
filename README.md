@@ -1,5 +1,10 @@
 # POC 2 - Métodos de Array
  POC 2
+  Membros: <br/>
+ Guilherme Miranda Bertinato da Rocha https://github.com/GBertinato  <br/>
+ Débora Abreu https://github.com/DeborahAbreu  <br/>
+ Jean Alex https://github.com/thucuru  <br/>
+ Pedro Carvalho https://github.com/pedro068 <br/>
 # Manipulação de Arrays em JavaScript
 
 Este projeto demonstra o uso de diversas operações de manipulação de arrays em JavaScript, incluindo Spread Operator, Map, Filter, Reduce, e Sort. Os resultados das operações são exibidos dinamicamente em uma página HTML.
